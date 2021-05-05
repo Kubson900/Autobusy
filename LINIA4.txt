@@ -1,0 +1,16 @@
+LINIA 4
+00:00 Lotnisko
+00:15 Osiedle
+00:30 Zajezdnia
+
+02:00 Lotnisko
+02:15 Osiedle
+02:30 Zajezdnia
+
+04:00 Lotnisko
+04:15 Osiedle
+04:30 Zajezdnia
+
+07:00 Lotnisko
+07:15 Osiedle
+07:30 Zajezdnia

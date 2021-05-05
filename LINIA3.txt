@@ -1,0 +1,18 @@
+LINIA 3
+06:00 Dworzec
+07:30 Lotnisko
+
+08:00 Dworzec
+09:30 Lotnisko
+
+10:00 Dworzec
+11:30 Lotnisko
+
+12:00 Dworzec
+13:30 Lotnisko
+
+14:00 Dworzec
+15:30 Lotnisko
+
+16:00 Dworzec
+17:30 Lotnisko

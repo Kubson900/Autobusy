@@ -1,0 +1,16 @@
+LINIA 9
+06:13 Rynek
+06:20 Reymonta
+06:45 Lotnisko
+07:01 Zajezdnia
+
+08:45 Rynek
+08:52 Reymonta
+09:17 Lotnisko
+09:33 Zajezdnia
+
+14:00 Rynek
+14:07 Reymonta
+14:32 Lotnisko
+14:48 Zajezdnia
+
